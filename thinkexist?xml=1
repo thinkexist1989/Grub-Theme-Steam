@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><profile>
+	<steamID64>76561198098390751</steamID64>
+	<steamID><![CDATA[ThinkExist]]></steamID>
+	<onlineState>offline</onlineState>
+	<stateMessage><![CDATA[Last Online 14 days ago]]></stateMessage>
+	<privacyState>public</privacyState>
+	<visibilityState>3</visibilityState>
+	<avatarIcon><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/2d/2d4c0e4fc54cf9b584449fb06d4f7b971a65bafa.jpg]]></avatarIcon>
+	<avatarMedium><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/2d/2d4c0e4fc54cf9b584449fb06d4f7b971a65bafa_medium.jpg]]></avatarMedium>
+	<avatarFull><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/2d/2d4c0e4fc54cf9b584449fb06d4f7b971a65bafa_full.jpg]]></avatarFull>
+	<vacBanned>0</vacBanned>
+	<tradeBanState>None</tradeBanState>
+	<isLimitedAccount>0</isLimitedAccount>
+	<customURL><![CDATA[thinkexist]]></customURL>
+	<memberSince>July 17th, 2013</memberSince>
+	<steamRating></steamRating>
+	<hoursPlayed2Wk>0.0</hoursPlayed2Wk>
+	<headline><![CDATA[]]></headline>
+	<location><![CDATA[China]]></location>
+	<realname><![CDATA[HaHa]]></realname>
+	<summary><![CDATA[No information given.]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Dota 2]]></gameName>
+			<gameLink><![CDATA[http://steamcommunity.com/app/570]]></gameLink>
+			<gameIcon><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/570/0bbb630d63262dd66d2fdd0f7d37e8661a410075.jpg]]></gameIcon>
+			<gameLogo><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/570/d4f836839254be08d8e9dd333ecc9a01782c26d2.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/570/d4f836839254be08d8e9dd333ecc9a01782c26d2.jpg]]></gameLogoSmall>
+			<hoursPlayed>1.0</hoursPlayed>
+			<hoursOnRecord>2,062</hoursOnRecord>
+		</mostPlayedGame>
+	</mostPlayedGames>
+
+
+</profile>

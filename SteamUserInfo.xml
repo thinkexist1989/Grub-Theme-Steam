@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE response>
+<response>
+	<players>
+		<player>
+			<steamid>76561198098390751</steamid>
+			<communityvisibilitystate>3</communityvisibilitystate>
+			<profilestate>1</profilestate>
+			<personaname>ThinkExist</personaname>
+			<lastlogoff>1520437651</lastlogoff>
+			<profileurl>http://steamcommunity.com/id/thinkexist/</profileurl>
+			<avatar>https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2d/2d4c0e4fc54cf9b584449fb06d4f7b971a65bafa.jpg</avatar>
+			<avatarmedium>https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2d/2d4c0e4fc54cf9b584449fb06d4f7b971a65bafa_medium.jpg</avatarmedium>
+			<avatarfull>https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2d/2d4c0e4fc54cf9b584449fb06d4f7b971a65bafa_full.jpg</avatarfull>
+			<personastate>0</personastate>
+			<realname>HaHa</realname>
+			<primaryclanid>103582791429521408</primaryclanid>
+			<timecreated>1374067493</timecreated>
+			<personastateflags>0</personastateflags>
+			<loccountrycode>CN</loccountrycode>
+		</player>
+	</players>
+</response>
